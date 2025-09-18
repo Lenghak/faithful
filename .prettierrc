@@ -1,0 +1,12 @@
+{
+  "plugins": ["@prettier/plugin-oxc"],
+  "arrowParens": "always",
+  "bracketSameLine": true,
+  "bracketSpacing": true,
+  "experimentalTernaries": false,
+  "htmlWhitespaceSensitivity": "strict",
+  "objectWrap": "preserve",
+  "singleAttributePerLine": true,
+  "tabWidth": 2,
+  "useTabs": false
+}
