@@ -9,7 +9,7 @@
     "style": "error",
     "suspicious": "error"
   },
-  "plugins": ["import", "oxc", "eslint", "promise", "typescript", "unicorn"],
+  "plugins": ["oxc", "promise", "typescript", "unicorn"],
   "rules": {
     "no-default-export": "off"
   }
